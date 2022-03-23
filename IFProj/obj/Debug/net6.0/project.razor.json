@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Pages\\Sessions\\IndexViewer.cshtml",
+      "TargetPath": "Pages\\Sessions\\IndexViewer.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -16315,6 +16320,16 @@
     {
       "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Pages\\Sessions\\Index.cshtml",
+      "TargetPath": "Pages\\Sessions\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Pages\\Sessions\\Delete.cshtml",
+      "TargetPath": "Pages\\Sessions\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16328,6 +16343,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Pages\\Sessions\\Details.cshtml",
+      "TargetPath": "Pages\\Sessions\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Pages\\Sessions\\DetailsViewer.cshtml",
+      "TargetPath": "Pages\\Sessions\\DetailsViewer.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16335,6 +16360,11 @@
     {
       "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Pages\\Sessions\\Edit.cshtml",
+      "TargetPath": "Pages\\Sessions\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16360,6 +16390,11 @@
     {
       "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Chris\\Desktop\\IFexample\\IFProj\\Pages\\Sessions\\Create.cshtml",
+      "TargetPath": "Pages\\Sessions\\Create.cshtml",
       "FileKind": "mvc"
     },
     {

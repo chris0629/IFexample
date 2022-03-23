@@ -1,0 +1,36 @@
+@page
+@model IFProj.Pages.Sessions.DetailsViewerModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Session</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Sessions.SessionName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Sessions.SessionName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Sessions.SessionDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Sessions.SessionDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Sessions.CreatedBy)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Sessions.CreatedBy)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./IndexViewer">Back to List</a>
+</div>

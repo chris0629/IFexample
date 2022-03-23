@@ -1,0 +1,46 @@
+@page
+@model IFProj.Pages.Sessions.IndexViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <h1>Sessions: </h1>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Sessions[0].SessionName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sessions[0].SessionDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sessions[0].CreatedBy)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Sessions) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SessionName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SessionDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedBy)
+            </td>
+            <td>
+                <a asp-page="./DetailsViewer" asp-route-id="@item.ID">Details</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

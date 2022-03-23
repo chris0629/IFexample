@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <!-- <Nullable>enable</Nullable> -->
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-IFProj-420831C3-CAA9-433A-874C-27EDE1C83009</UserSecretsId>
   </PropertyGroup>

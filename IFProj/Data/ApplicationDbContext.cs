@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-
+using IFProj.Models;
 namespace IFProj.Data;
 
 public class ApplicationDbContext : IdentityDbContext
@@ -9,4 +9,9 @@ public class ApplicationDbContext : IdentityDbContext
         : base(options)
     {
     }
+
+    public DbSet<Session> Sessions { get; set; }
+
+
+
 }

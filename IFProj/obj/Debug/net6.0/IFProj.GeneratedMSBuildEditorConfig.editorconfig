@@ -59,6 +59,34 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Chris/Desktop/IFexample/IFProj/Pages/Sessions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Chris/Desktop/IFexample/IFProj/Pages/Sessions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Chris/Desktop/IFexample/IFProj/Pages/Sessions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Chris/Desktop/IFexample/IFProj/Pages/Sessions/DetailsViewer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRGV0YWlsc1ZpZXdlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Chris/Desktop/IFexample/IFProj/Pages/Sessions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Chris/Desktop/IFexample/IFProj/Pages/Sessions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Chris/Desktop/IFexample/IFProj/Pages/Sessions/IndexViewer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vzc2lvbnNcSW5kZXhWaWV3ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Chris/Desktop/IFexample/IFProj/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
